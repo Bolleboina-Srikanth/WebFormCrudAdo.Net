@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SKY Files\\Visual Studio Files\\WEBFORMS\\EmployeesListWebForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB8F611-E61C-4CCA-9590-F9E95382A363}|EmployeesListWebForms.csproj|d:\\sky files\\visual studio files\\webforms\\employeeslistwebforms\\employeelistview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB8F611-E61C-4CCA-9590-F9E95382A363}|EmployeesListWebForms.csproj|solutionrelative:employeelistview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB8F611-E61C-4CCA-9590-F9E95382A363}|EmployeesListWebForms.csproj|d:\\sky files\\visual studio files\\webforms\\employeeslistwebforms\\employeelistview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4FB8F611-E61C-4CCA-9590-F9E95382A363}|EmployeesListWebForms.csproj|solutionrelative:employeelistview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeListView.aspx.cs",
+              "DocumentMoniker": "D:\\SKY Files\\Visual Studio Files\\WEBFORMS\\EmployeesListWebForms\\EmployeeListView.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeListView.aspx.cs",
+              "ToolTip": "D:\\SKY Files\\Visual Studio Files\\WEBFORMS\\EmployeesListWebForms\\EmployeeListView.aspx.cs",
+              "RelativeToolTip": "EmployeeListView.aspx.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAawEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:03:18.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeListView.aspx",
+              "DocumentMoniker": "D:\\SKY Files\\Visual Studio Files\\WEBFORMS\\EmployeesListWebForms\\EmployeeListView.aspx",
+              "RelativeDocumentMoniker": "EmployeeListView.aspx",
+              "ToolTip": "D:\\SKY Files\\Visual Studio Files\\WEBFORMS\\EmployeesListWebForms\\EmployeeListView.aspx",
+              "RelativeToolTip": "EmployeeListView.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T06:01:55.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
